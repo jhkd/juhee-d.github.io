@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "ILOVEMIN!"
 date:   2017-12-06 23:07:57 +0900
 categories: jekyll update
 ---
